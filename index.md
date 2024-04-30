@@ -3,9 +3,6 @@ Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a h
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
