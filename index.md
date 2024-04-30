@@ -10,9 +10,8 @@ Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a h
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Texual and Sentiment Analysis on 10-K Filings](report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
