@@ -1,5 +1,5 @@
 ## About Me
-Hi! My name is Keith Cheung, and I am a student at Lehigh University in the "<a href = "https://ibe.lehigh.edu/">Integrated Business and Engineering Honors Program" </a> studying Industrial and Systems Engineering and Finance. 
+Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a href = "https://ibe.lehigh.edu/">Integrated Business and Engineering Honors Program </a> studying Industrial and Systems Engineering and Finance. 
 
 <!-- Upload your own photo and change the path -->
 
