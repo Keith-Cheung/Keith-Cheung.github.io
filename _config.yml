@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="www.linkedin.com/in/keithcheung328">LinkedIn</a> 
   <br>
-  <a href="file:///C:/Users/keith/Documents/Keith_Cheung_Resume.pdf" class="btn btn--info">Resume</a>  
+  <a href="/pdf/Keith_Cheung_Resume.pdf?raw=true" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://github.com/Keith-Cheung/">GitHub</a>  
   
