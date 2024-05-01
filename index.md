@@ -13,7 +13,7 @@ Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a h
 _**[Texual and Sentiment Analysis on 10-K Filings](report)**_
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GICS_Sector.png?raw=true"/>
 
 ---
 
