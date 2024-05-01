@@ -1,5 +1,5 @@
 ## About Me
-Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a href = "https://ibe.lehigh.edu/">Integrated Business and Engineering Honors Program </a> studying Industrial and Systems Engineering and Finance. 
+Hi! My name is Keith Cheung, and I am a student at Lehigh University in the <a href = "https://ibe.lehigh.edu/">Integrated Business and Engineering Honors Program </a> studying Industrial and Systems Engineering and Finance. At Lehigh, I took the opportunity to advance my professional skills by participating in clubs such as the Lehigh Consulting Group and Lehigh Investment Management Group. I am interested in solving problems with finance and technology. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -17,38 +17,28 @@ _**[Texual and Sentiment Analysis on 10-K Filings](report)**_
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Some of my goals are to gain experiences by combining my knowledge in finance with engineering applications including coding, data science, and statistical analsyis. 
 
 ---
 
 ## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+* Sports: Football (Green Bay Packers), Basketball (New York Knicks), Ultimate Frisbee
+* Listening to music
+* Watching new TV shows and movies
+* Meeting new people and building relationships
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
