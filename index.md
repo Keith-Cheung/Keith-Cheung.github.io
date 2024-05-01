@@ -15,15 +15,6 @@ _**[Texual and Sentiment Analysis on 10-K Filings](report)**_
 
 <img src="images/GICS_Sector.png?raw=true"/>
 
----
-
-
----
-
-
-
----
-
 
 
 ---
